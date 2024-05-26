@@ -320,7 +320,7 @@ elif add_selectbox=="Contoh Soal %b/b":
     Larutan dititar dengan larutan AgNO3 0,1025 N hingga titik akhir tercapai pada penambahan volume 17,35 mL. 
     Hitung kadar Cl dalam contoh!""")
 
- elif add_selectbox=="referensi":
+else:
     st.write("""Daftar Pustaka:
     AGUSTINO, R. 2019. Komparasi Algoritma Klasifikasi dengan Menggunakan Anaconda untuk Memprediksi Ramai Penonton Film di Bioskop. Jurnal Teknologi Informatika dan Komputer. 5(1):24-28. 
         https://scholar.google.com/scholar?hl=id&as_sdt=0%2C5&q=jurnal +anaconda&btnG=#d=gs_qabs&t=1715413977128&u=%23p%3D1deHfbc0RLcJ [12 Maret 2024]
